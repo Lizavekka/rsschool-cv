@@ -1,7 +1,7 @@
 # Elizaveta Chernyakova
 =======================
 
-![photo](foto.png)
+![photo](https://github.com/Lizavekka/rsschool-cv/blob/gh-pages/photo.png)
 
 -----------------------
 ## Contacts:
